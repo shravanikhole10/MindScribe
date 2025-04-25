@@ -1,0 +1,13 @@
+stream lit==1.19.0
+OpenCV-python==4.7.0.72
+OpenCV-python-headless==4.7.0.72
+Speech Recognition==3.8.1
+plaudit==0.2.11
+pillow==9.0.0
+NumPy==1.24.2
+TensorFlow==2.13.0
+TensorFlow-hub==0.14.0
+Torch==2.1.0
+transformers==4.27.4
+scikit-learn==1.2.2
+scipy==1.11.0
